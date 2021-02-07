@@ -30,9 +30,9 @@ I'm Sagar Sharma currently a Front End Web Developer.
 
 ![Sagar's github stats](https://github-readme-stats.vercel.app/api?username=Sagar-Sharma-7&count_private=true&theme=tokyonight&hide=contribs,prs)
 <br>
-<p align="center">
+
 ![ForTheBadge built-with-love](https://forthebadge.com/images/badges/built-with-love.svg)
-</p>
+
 
 
 
