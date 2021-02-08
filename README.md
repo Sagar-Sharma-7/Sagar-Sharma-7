@@ -22,13 +22,13 @@ I'm Sagar Sharma currently a Front End Web Developer.
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
-#### Coding Stats
+#### Most Used Languages
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Sharma-7&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-sharma-7&theme=chartreuse-dark&layout=compact)
 
 #### Github Stats
 
-![Sagar's github stats](https://github-readme-stats.vercel.app/api?username=Sagar-Sharma-7&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagar-Sharma-7&theme=chartreuse-dark&show_icons=true)
 <br>
 
 ![ForTheBadge built-with-love](https://forthebadge.com/images/badges/built-with-love.svg)
