@@ -20,15 +20,16 @@ I'm Sagar Sharma currently a Front End Web Developer.
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
 #### Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-sharma-7&theme=chartreuse-dark&layout=compact)
 
-#### Github Stats
+## Statistics 
+[![Sagar Sharma's github stats](https://github-readme-stats.vercel.app/api?username=sagar-sharma-7&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagar-Sharma-7&theme=chartreuse-dark&show_icons=true)
 <br>
 
 ![ForTheBadge built-with-love](https://forthebadge.com/images/badges/built-with-love.svg)
