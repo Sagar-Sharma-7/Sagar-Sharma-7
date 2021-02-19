@@ -8,7 +8,7 @@ I'm Sagar Sharma currently a Front End Web Developer.
 - 🤔 I’m looking for help with Outstanding Project ideas.
 - 📫 How to reach me: 6969sagarsharma@gmail.com.
 - ✔ 2021 Goal: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to solve Rubik's Cubes
+- ⚡ Fun fact: I am crazy
 
 ![Profile views](https://gpvc.arturio.dev/Sagar-Sharma-7)
 
