@@ -48,5 +48,10 @@ if(succeed == false){
 ### ⚙ Github Analytics
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagar-sharma-7&theme=nord_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagar-sharma-7&theme=nord_dark" >
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagar-sharma-7&theme=nord_dark">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagar-sharma-7&theme=nord_dark" >
+<img src="https://github-profile-trophy.vercel.app/?username=sagar-sharma-7&theme=darkhub">
+<img src="https://github-readme-stats.vercel.app/api?username=sagar-sharma-7&theme=blue-green" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-sharma-7&theme=chartreuse-dark&layout=compact" width="335">
+
 </p>
