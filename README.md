@@ -53,5 +53,16 @@ if(succeed == false){
 <img src="https://github-profile-trophy.vercel.app/?username=sagar-sharma-7&theme=darkhub">
 <img src="https://github-readme-stats.vercel.app/api?username=sagar-sharma-7&theme=blue-green" width="400">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-sharma-7&theme=chartreuse-dark&layout=compact" width="335">
-
 </p>
+
+---
+### ⚙ Commits Streak 
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-sharma-7&theme=radical">
+<img src="https://activity-graph.herokuapp.com/graph?username=sagar-sharma-7&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true">
+</p>
+
+___
+---
+
