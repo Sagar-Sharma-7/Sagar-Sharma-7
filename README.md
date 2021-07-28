@@ -8,15 +8,20 @@ document.write("Hello World");
 Developer dev = new Developer(Sagar Sharma);
 const Sagar = {
     pronouns: "he" | "his",
-    status: "Student",
+    status: Student,
     technologies: {
         frontEnd: [HTML, CSS, SASS, Javascript],
         backEnd: [Node.js, Express.js, Mongoose.js, MongoDB],
         libraries: [Bootstrap, JQuery]
-    }
+    },
     editors: [VS Code, Sublime Text 3, PyCharm],
     learning: [Python]
-    
 }
+
+if(succeed == false){
+    tryagain();
+}else{
+    party();
+};
 ```
 
