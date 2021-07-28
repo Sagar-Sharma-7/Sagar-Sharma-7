@@ -43,6 +43,11 @@ if(succeed == false){
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=orange">
+<img src="https://img.shields.io/bage/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=orange">
 </p>
 
+---
+
+### ⚙ Github Analytics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagar-sharma-7&theme=nord_dark" width="450"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagar-sharma-7&theme=nord_dark" width="450">
