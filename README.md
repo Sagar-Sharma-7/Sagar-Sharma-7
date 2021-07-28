@@ -17,8 +17,9 @@ const Sagar = {
         libraries: [Bootstrap, JQuery]
     },
     editors: [VS Code, Sublime Text 3, PyCharm],
-    learning: [Python]
-}
+    learning: [Python],
+    contact: 6969sagarsharma@gmail.com
+};
 
 if(succeed == false){
     tryagain();
@@ -59,10 +60,21 @@ if(succeed == false){
 ### ⚙ Commits Streak 
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-sharma-7&theme=radical">
-<img src="https://activity-graph.herokuapp.com/graph?username=sagar-sharma-7&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar-Sharma-7&theme=radical">
+<img src="https://activity-graph.herokuapp.com/graph?username=Sagar-Sharma-7&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true">
 </p>
 
 ___
----
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
+### Spotify Playing 🎧
+![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)
+___
+----
+
+![Profile views](https://profile-counter.glitch.me/Sagar-Sharma-7/count.svg)
+
+
+```zsh
+>  check out my repos 👇
+```
