@@ -72,6 +72,7 @@ ___
 ### Spotify Playing 🎧
 ![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)
 ___
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 ----
