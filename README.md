@@ -64,12 +64,16 @@ if(succeed == false){
 <img src="https://activity-graph.herokuapp.com/graph?username=Sagar-Sharma-7&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true">
 </p>
 
+____
+
 ___
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
 ![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)
 ___
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ----
 
 ![Profile views](https://profile-counter.glitch.me/Sagar-Sharma-7/count.svg)
