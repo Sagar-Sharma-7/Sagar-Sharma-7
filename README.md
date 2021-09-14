@@ -70,7 +70,12 @@ ___
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 07 September, 2021 - 13 September, 2021
+
+YAML       31 mins         ███████████▓░░░░░░░░░░░░░   46.50 % 
+Markdown   22 mins         ████████▒░░░░░░░░░░░░░░░░   33.23 % 
+Python     12 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.65 % 
+HTML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 ```
 <!--END_SECTION:waka-->
 ____
