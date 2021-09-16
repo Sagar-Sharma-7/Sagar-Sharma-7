@@ -70,13 +70,13 @@ ___
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 08 September, 2021 - 14 September, 2021
+Week: 09 September, 2021 - 15 September, 2021
 
-Python       1 hr 35 mins    █████████░░░░░░░░░░░░░░░░   36.17 % 
-HTML         41 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-YAML         39 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-JavaScript   31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Markdown     22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Python       2 hrs 32 mins   █████████▓░░░░░░░░░░░░░░░   38.31 % 
+Markdown     58 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+JavaScript   55 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+HTML         45 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+YAML         39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
 ```
 <!--END_SECTION:waka-->
 ____
