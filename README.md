@@ -70,7 +70,7 @@ ___
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 19 September, 2021 - 25 September, 2021
+Week: 20 September, 2021 - 26 September, 2021
 
 Python       2 hrs 48 mins   ███████████▓░░░░░░░░░░░░░   47.18 % 
 SCSS         1 hr 19 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.25 % 
