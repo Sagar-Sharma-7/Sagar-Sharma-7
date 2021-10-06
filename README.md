@@ -60,7 +60,7 @@ if(succeed == false){
 ### ⚙ Commits Streak 
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar-Sharma-7&theme=radical">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-sharma-7&theme=radical">
 <img src="https://activity-graph.herokuapp.com/graph?username=Sagar-Sharma-7&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true">
 </p>
 
