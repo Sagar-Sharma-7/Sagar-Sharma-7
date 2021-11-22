@@ -70,7 +70,7 @@ ___
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 14 November, 2021 - 20 November, 2021
+Week: 15 November, 2021 - 21 November, 2021
 
 Python       2 hrs 34 mins   ███████████▒░░░░░░░░░░░░░   45.57 % 
 JavaScript   1 hr 19 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.26 % 
