@@ -70,12 +70,12 @@ ___
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 17 November, 2021 - 23 November, 2021
+Week: 18 November, 2021 - 24 November, 2021
 
-Python       3 hrs 30 mins   ████████████████▓░░░░░░░░   66.18 % 
-Markdown     1 hr 13 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.20 % 
-HTML         25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-JavaScript   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Python       3 hrs 30 mins   ██████████████████▓░░░░░░   74.11 % 
+Markdown     39 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+HTML         25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+JavaScript   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 <!--END_SECTION:waka-->
 ____
