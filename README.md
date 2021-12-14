@@ -70,7 +70,7 @@ ___
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 06 December, 2021 - 12 December, 2021
+Week: 07 December, 2021 - 13 December, 2021
 
 JavaScript   39 mins         █████████░░░░░░░░░░░░░░░░   36.00 % 
 HTML         33 mins         ███████▓░░░░░░░░░░░░░░░░░   30.21 % 
