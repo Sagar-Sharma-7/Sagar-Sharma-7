@@ -70,13 +70,12 @@ ___
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 07 December, 2021 - 13 December, 2021
+Week: 08 December, 2021 - 14 December, 2021
 
-JavaScript   39 mins         █████████░░░░░░░░░░░░░░░░   36.00 % 
-HTML         33 mins         ███████▓░░░░░░░░░░░░░░░░░   30.21 % 
-Python       22 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.75 % 
-JSON         11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Git Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+JavaScript   30 mins         ██████████▒░░░░░░░░░░░░░░   40.89 % 
+Python       22 mins         ███████▓░░░░░░░░░░░░░░░░░   31.30 % 
+JSON         10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+HTML         9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 % 
 ```
 <!--END_SECTION:waka-->
 ____
