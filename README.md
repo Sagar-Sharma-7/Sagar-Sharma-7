@@ -70,7 +70,7 @@ ___
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 15 January, 2022 - 21 January, 2022
+Week: 16 January, 2022 - 22 January, 2022
 
 Python       50 mins         ████████████▓░░░░░░░░░░░░   50.08 % 
 JavaScript   20 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.74 % 
