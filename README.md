@@ -70,12 +70,13 @@ ___
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 20 January, 2022 - 26 January, 2022
+Week: 21 January, 2022 - 27 January, 2022
 
-Python     1 hr 5 mins     ████████████████▒░░░░░░░░   64.81 % 
-HTML       17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Markdown   13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Text       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Python     48 mins         █████████░░░░░░░░░░░░░░░░   36.32 % 
+SCSS       35 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.30 % 
+HTML       26 mins         █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+Markdown   13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Other      4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 ```
 <!--END_SECTION:waka-->
 ____
