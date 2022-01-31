@@ -70,7 +70,7 @@ ___
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 23 January, 2022 - 29 January, 2022
+Week: 24 January, 2022 - 30 January, 2022
 
 HTML     41 mins         █████████▒░░░░░░░░░░░░░░░   37.85 % 
 SCSS     36 mins         ████████▒░░░░░░░░░░░░░░░░   33.48 % 
