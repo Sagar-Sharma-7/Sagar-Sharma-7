@@ -70,7 +70,7 @@ ___
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 01 February, 2022 - 07 February, 2022
+Week: 02 February, 2022 - 08 February, 2022
 
 Python   1 hr 45 mins    ████████████░░░░░░░░░░░░░   47.63 % 
 HTML     1 hr 4 mins     ███████▒░░░░░░░░░░░░░░░░░   28.94 % 
