@@ -78,8 +78,12 @@ SCSS     52 mins         ██████░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 ____
+____
 
+    
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/sagar-sharma-7) 
 ___
+
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
