@@ -70,7 +70,9 @@ ___
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 08 February, 2022 - 14 February, 2022
+Week: 09 February, 2022 - 15 February, 2022
+
+Total: 13 mins
 
 SCSS   11 mins         █████████████████████░░░░   84.62 % 
 HTML   2 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
