@@ -70,9 +70,10 @@ ___
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 14 February, 2022 - 20 February, 2022
+From: 13 February, 2022 - To: 20 February, 2022
 
-HTML     1 min           █████████████████████▓░░░   86.18 % 
+Python   28 mins         ████████████████████████░   95.45 % 
+HTML     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 <!--END_SECTION:waka-->
 ____
