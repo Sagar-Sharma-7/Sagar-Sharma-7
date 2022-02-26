@@ -70,10 +70,10 @@ ___
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-From: 16 February, 2022 - To: 23 February, 2022
+From: 17 February, 2022 - To: 24 February, 2022
 
-Python   34 mins         ████████████████▒░░░░░░░░   64.71 % 
-Bash     19 mins         ████████▓░░░░░░░░░░░░░░░░   35.29 % 
+Python   34 mins         ██████████████▓░░░░░░░░░░   58.31 % 
+Bash     24 mins         ██████████▒░░░░░░░░░░░░░░   41.16 % 
 ```
 <!--END_SECTION:waka-->
 ____
