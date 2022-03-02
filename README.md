@@ -71,10 +71,7 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 February 2022 - To: 28 February 2022
-
-Bash     19 mins         ███████████████████░░░░░░   76.30 %
-Python   5 mins          ██████░░░░░░░░░░░░░░░░░░░   23.70 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
