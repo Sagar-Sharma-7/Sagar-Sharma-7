@@ -71,7 +71,7 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 March 2022 - To: 17 March 2022
+From: 11 March 2022 - To: 18 March 2022
 
 Bash         19 mins         █████████████████░░░░░░░░   67.69 %
 HTML         8 mins          ███████░░░░░░░░░░░░░░░░░░   28.19 %
