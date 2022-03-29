@@ -71,12 +71,9 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 March 2022 - To: 27 March 2022
+From: 21 March 2022 - To: 28 March 2022
 
-Python   52 mins         ████████████████████░░░░░   79.63 %
-SCSS     9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 %
-HTML     3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
-CSS      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python   52 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
