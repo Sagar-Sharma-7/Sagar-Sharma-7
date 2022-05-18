@@ -71,11 +71,10 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 May 2022 - To: 16 May 2022
+From: 10 May 2022 - To: 17 May 2022
 
-Python       1 hr 19 mins    ████████████████████████░   96.13 %
-HTML         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Python       1 hr 12 mins    ████████████████████████▒   97.94 %
+Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
 
 <!--END_SECTION:waka-->
