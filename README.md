@@ -81,8 +81,10 @@ Markdown   15 mins         █████▓░░░░░░░░░░░�
 ____
 ____
 
-    
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/sagar-sharma-7) 
+# Recent Activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ___
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
