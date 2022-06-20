@@ -13,11 +13,11 @@ const Sagar = {
     status: Student,
     technologies: {
         frontEnd: [HTML, CSS, SASS, Javascript],
-        backEnd: [Node.js, Express.js, Mongoose.js, MongoDB],
+        backEnd: [Node.js, Express.js, Mongoose.js, MongoDB, Python],
         libraries: [Bootstrap, JQuery]
     },
-    editors: [VS Code, Sublime Text 3, PyCharm],
-    learning: [Python],
+    editors: [VS Code, Vim, PyCharm, Nano],
+    learning: [Kali Linux],
     contact: 6969sagarsharma@gmail.com
 };
 
