@@ -71,10 +71,14 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 June 2022 - To: 15 June 2022
+From: 12 June 2022 - To: 19 June 2022
 
-Python     53 mins         ███████████████████▒░░░░░   76.97 %
-Markdown   15 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.03 %
+YAML         9 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.53 %
+HTML         8 mins          █████░░░░░░░░░░░░░░░░░░░░   19.87 %
+Python       8 mins          █████░░░░░░░░░░░░░░░░░░░░   19.72 %
+Markdown     5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
+SCSS         5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
+JavaScript   5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
 ```
 
 <!--END_SECTION:waka-->
@@ -83,6 +87,16 @@ ____
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#4](https://github.com/Sagar-Sharma-7/Sagar-Sharma-7/pull/4) in [Sagar-Sharma-7/Sagar-Sharma-7](https://github.com/Sagar-Sharma-7/Sagar-Sharma-7)
+2. 💪 Opened PR [#4](https://github.com/Sagar-Sharma-7/Sagar-Sharma-7/pull/4) in [Sagar-Sharma-7/Sagar-Sharma-7](https://github.com/Sagar-Sharma-7/Sagar-Sharma-7)
+3. 🎉 Merged PR [#3](https://github.com/Sagar-Sharma-7/Sagar-Sharma-7/pull/3) in [Sagar-Sharma-7/Sagar-Sharma-7](https://github.com/Sagar-Sharma-7/Sagar-Sharma-7)
+4. 💪 Opened PR [#3](https://github.com/Sagar-Sharma-7/Sagar-Sharma-7/pull/3) in [Sagar-Sharma-7/Sagar-Sharma-7](https://github.com/Sagar-Sharma-7/Sagar-Sharma-7)
+5. 🎉 Merged PR [#3](https://github.com/Sagar-Sharma-7/flip-text/pull/3) in [Sagar-Sharma-7/flip-text](https://github.com/Sagar-Sharma-7/flip-text)
+6. 🎉 Merged PR [#5](https://github.com/Sagar-Sharma-7/CLI_password_generator-/pull/5) in [Sagar-Sharma-7/CLI_password_generator-](https://github.com/Sagar-Sharma-7/CLI_password_generator-)
+7. 💪 Opened PR [#5](https://github.com/Sagar-Sharma-7/CLI_password_generator-/pull/5) in [Sagar-Sharma-7/CLI_password_generator-](https://github.com/Sagar-Sharma-7/CLI_password_generator-)
+8. 🎉 Merged PR [#5](https://github.com/Sagar-Sharma-7/TODO-CLI-python/pull/5) in [Sagar-Sharma-7/TODO-CLI-python](https://github.com/Sagar-Sharma-7/TODO-CLI-python)
+9. 💪 Opened PR [#5](https://github.com/Sagar-Sharma-7/TODO-CLI-python/pull/5) in [Sagar-Sharma-7/TODO-CLI-python](https://github.com/Sagar-Sharma-7/TODO-CLI-python)
+10. 🎉 Merged PR [#4](https://github.com/Sagar-Sharma-7/CLI_password_generator-/pull/4) in [Sagar-Sharma-7/CLI_password_generator-](https://github.com/Sagar-Sharma-7/CLI_password_generator-)
 <!--END_SECTION:activity-->
 
 ___
