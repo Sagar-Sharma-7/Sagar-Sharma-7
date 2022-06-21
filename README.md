@@ -87,16 +87,16 @@ ____
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Sagar-Sharma-7/Socket_kali-linux/pull/1) in [Sagar-Sharma-7/Socket_kali-linux](https://github.com/Sagar-Sharma-7/Socket_kali-linux)
-2. 💪 Opened PR [#1](https://github.com/Sagar-Sharma-7/Socket_kali-linux/pull/1) in [Sagar-Sharma-7/Socket_kali-linux](https://github.com/Sagar-Sharma-7/Socket_kali-linux)
-3. 🎉 Merged PR [#4](https://github.com/Sagar-Sharma-7/Sagar-Sharma-7/pull/4) in [Sagar-Sharma-7/Sagar-Sharma-7](https://github.com/Sagar-Sharma-7/Sagar-Sharma-7)
-4. 💪 Opened PR [#4](https://github.com/Sagar-Sharma-7/Sagar-Sharma-7/pull/4) in [Sagar-Sharma-7/Sagar-Sharma-7](https://github.com/Sagar-Sharma-7/Sagar-Sharma-7)
-5. 🎉 Merged PR [#3](https://github.com/Sagar-Sharma-7/Sagar-Sharma-7/pull/3) in [Sagar-Sharma-7/Sagar-Sharma-7](https://github.com/Sagar-Sharma-7/Sagar-Sharma-7)
-6. 💪 Opened PR [#3](https://github.com/Sagar-Sharma-7/Sagar-Sharma-7/pull/3) in [Sagar-Sharma-7/Sagar-Sharma-7](https://github.com/Sagar-Sharma-7/Sagar-Sharma-7)
-7. 🎉 Merged PR [#3](https://github.com/Sagar-Sharma-7/flip-text/pull/3) in [Sagar-Sharma-7/flip-text](https://github.com/Sagar-Sharma-7/flip-text)
-8. 🎉 Merged PR [#5](https://github.com/Sagar-Sharma-7/CLI_password_generator-/pull/5) in [Sagar-Sharma-7/CLI_password_generator-](https://github.com/Sagar-Sharma-7/CLI_password_generator-)
-9. 💪 Opened PR [#5](https://github.com/Sagar-Sharma-7/CLI_password_generator-/pull/5) in [Sagar-Sharma-7/CLI_password_generator-](https://github.com/Sagar-Sharma-7/CLI_password_generator-)
-10. 🎉 Merged PR [#5](https://github.com/Sagar-Sharma-7/TODO-CLI-python/pull/5) in [Sagar-Sharma-7/TODO-CLI-python](https://github.com/Sagar-Sharma-7/TODO-CLI-python)
+1. 🎉 Merged PR [#4](https://github.com/Sagar-Sharma-7/Socket_kali-linux/pull/4) in [Sagar-Sharma-7/Socket_kali-linux](https://github.com/Sagar-Sharma-7/Socket_kali-linux)
+2. 💪 Opened PR [#4](https://github.com/Sagar-Sharma-7/Socket_kali-linux/pull/4) in [Sagar-Sharma-7/Socket_kali-linux](https://github.com/Sagar-Sharma-7/Socket_kali-linux)
+3. 🎉 Merged PR [#3](https://github.com/Sagar-Sharma-7/Socket_kali-linux/pull/3) in [Sagar-Sharma-7/Socket_kali-linux](https://github.com/Sagar-Sharma-7/Socket_kali-linux)
+4. 💪 Opened PR [#3](https://github.com/Sagar-Sharma-7/Socket_kali-linux/pull/3) in [Sagar-Sharma-7/Socket_kali-linux](https://github.com/Sagar-Sharma-7/Socket_kali-linux)
+5. 🎉 Merged PR [#2](https://github.com/Sagar-Sharma-7/Socket_kali-linux/pull/2) in [Sagar-Sharma-7/Socket_kali-linux](https://github.com/Sagar-Sharma-7/Socket_kali-linux)
+6. 💪 Opened PR [#2](https://github.com/Sagar-Sharma-7/Socket_kali-linux/pull/2) in [Sagar-Sharma-7/Socket_kali-linux](https://github.com/Sagar-Sharma-7/Socket_kali-linux)
+7. 🎉 Merged PR [#1](https://github.com/Sagar-Sharma-7/Socket_kali-linux/pull/1) in [Sagar-Sharma-7/Socket_kali-linux](https://github.com/Sagar-Sharma-7/Socket_kali-linux)
+8. 💪 Opened PR [#1](https://github.com/Sagar-Sharma-7/Socket_kali-linux/pull/1) in [Sagar-Sharma-7/Socket_kali-linux](https://github.com/Sagar-Sharma-7/Socket_kali-linux)
+9. 🎉 Merged PR [#4](https://github.com/Sagar-Sharma-7/Sagar-Sharma-7/pull/4) in [Sagar-Sharma-7/Sagar-Sharma-7](https://github.com/Sagar-Sharma-7/Sagar-Sharma-7)
+10. 💪 Opened PR [#4](https://github.com/Sagar-Sharma-7/Sagar-Sharma-7/pull/4) in [Sagar-Sharma-7/Sagar-Sharma-7](https://github.com/Sagar-Sharma-7/Sagar-Sharma-7)
 <!--END_SECTION:activity-->
 
 ___
