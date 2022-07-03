@@ -84,16 +84,16 @@ ____
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/Sagar-Sharma-7/ColorChalks/pull/7) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
-2. ❗️ Closed issue [#5](https://github.com/Sagar-Sharma-7/Age-Calc/issues/5) in [Sagar-Sharma-7/Age-Calc](https://github.com/Sagar-Sharma-7/Age-Calc)
-3. 🗣 Commented on [#5](https://github.com/Sagar-Sharma-7/Age-Calc/issues/5) in [Sagar-Sharma-7/Age-Calc](https://github.com/Sagar-Sharma-7/Age-Calc)
-4. 🎉 Merged PR [#2](https://github.com/Sagar-Sharma-7/T_colors/pull/2) in [Sagar-Sharma-7/T_colors](https://github.com/Sagar-Sharma-7/T_colors)
-5. 💪 Opened PR [#2](https://github.com/Sagar-Sharma-7/T_colors/pull/2) in [Sagar-Sharma-7/T_colors](https://github.com/Sagar-Sharma-7/T_colors)
-6. 🎉 Merged PR [#1](https://github.com/Sagar-Sharma-7/T_colors/pull/1) in [Sagar-Sharma-7/T_colors](https://github.com/Sagar-Sharma-7/T_colors)
-7. 💪 Opened PR [#1](https://github.com/Sagar-Sharma-7/T_colors/pull/1) in [Sagar-Sharma-7/T_colors](https://github.com/Sagar-Sharma-7/T_colors)
-8. 🎉 Merged PR [#4](https://github.com/Sagar-Sharma-7/Socket_kali-linux/pull/4) in [Sagar-Sharma-7/Socket_kali-linux](https://github.com/Sagar-Sharma-7/Socket_kali-linux)
-9. 💪 Opened PR [#4](https://github.com/Sagar-Sharma-7/Socket_kali-linux/pull/4) in [Sagar-Sharma-7/Socket_kali-linux](https://github.com/Sagar-Sharma-7/Socket_kali-linux)
-10. 🎉 Merged PR [#3](https://github.com/Sagar-Sharma-7/Socket_kali-linux/pull/3) in [Sagar-Sharma-7/Socket_kali-linux](https://github.com/Sagar-Sharma-7/Socket_kali-linux)
+1. 🎉 Merged PR [#8](https://github.com/Sagar-Sharma-7/ColorChalks/pull/8) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
+2. 💪 Opened PR [#8](https://github.com/Sagar-Sharma-7/ColorChalks/pull/8) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
+3. 🎉 Merged PR [#7](https://github.com/Sagar-Sharma-7/ColorChalks/pull/7) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
+4. 💪 Opened PR [#7](https://github.com/Sagar-Sharma-7/ColorChalks/pull/7) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
+5. ❗️ Closed issue [#5](https://github.com/Sagar-Sharma-7/Age-Calc/issues/5) in [Sagar-Sharma-7/Age-Calc](https://github.com/Sagar-Sharma-7/Age-Calc)
+6. 🗣 Commented on [#5](https://github.com/Sagar-Sharma-7/Age-Calc/issues/5) in [Sagar-Sharma-7/Age-Calc](https://github.com/Sagar-Sharma-7/Age-Calc)
+7. 🎉 Merged PR [#2](https://github.com/Sagar-Sharma-7/T_colors/pull/2) in [Sagar-Sharma-7/T_colors](https://github.com/Sagar-Sharma-7/T_colors)
+8. 💪 Opened PR [#2](https://github.com/Sagar-Sharma-7/T_colors/pull/2) in [Sagar-Sharma-7/T_colors](https://github.com/Sagar-Sharma-7/T_colors)
+9. 🎉 Merged PR [#1](https://github.com/Sagar-Sharma-7/T_colors/pull/1) in [Sagar-Sharma-7/T_colors](https://github.com/Sagar-Sharma-7/T_colors)
+10. 💪 Opened PR [#1](https://github.com/Sagar-Sharma-7/T_colors/pull/1) in [Sagar-Sharma-7/T_colors](https://github.com/Sagar-Sharma-7/T_colors)
 <!--END_SECTION:activity-->
 
 ___
