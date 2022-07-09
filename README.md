@@ -71,12 +71,9 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 June 2022 - To: 07 July 2022
+From: 01 July 2022 - To: 08 July 2022
 
-Python     25 mins         ████████▓░░░░░░░░░░░░░░░░   35.07 %
-Markdown   23 mins         ████████░░░░░░░░░░░░░░░░░   31.70 %
-HTML       12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.87 %
-INI        11 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
+HTML   12 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
