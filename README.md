@@ -83,16 +83,16 @@ ____
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/Sagar-Sharma-7/CLI_password_generator-/issues/6) in [Sagar-Sharma-7/CLI_password_generator-](https://github.com/Sagar-Sharma-7/CLI_password_generator-)
-2. 🗣 Commented on [#6](https://github.com/Sagar-Sharma-7/CLI_password_generator-/issues/6) in [Sagar-Sharma-7/CLI_password_generator-](https://github.com/Sagar-Sharma-7/CLI_password_generator-)
-3. 🎉 Merged PR [#8](https://github.com/Sagar-Sharma-7/ColorChalks/pull/8) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
-4. 💪 Opened PR [#8](https://github.com/Sagar-Sharma-7/ColorChalks/pull/8) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
-5. 🎉 Merged PR [#7](https://github.com/Sagar-Sharma-7/ColorChalks/pull/7) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
-6. 💪 Opened PR [#7](https://github.com/Sagar-Sharma-7/ColorChalks/pull/7) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
-7. ❗️ Closed issue [#5](https://github.com/Sagar-Sharma-7/Age-Calc/issues/5) in [Sagar-Sharma-7/Age-Calc](https://github.com/Sagar-Sharma-7/Age-Calc)
-8. 🗣 Commented on [#5](https://github.com/Sagar-Sharma-7/Age-Calc/issues/5) in [Sagar-Sharma-7/Age-Calc](https://github.com/Sagar-Sharma-7/Age-Calc)
-9. 🎉 Merged PR [#2](https://github.com/Sagar-Sharma-7/T_colors/pull/2) in [Sagar-Sharma-7/T_colors](https://github.com/Sagar-Sharma-7/T_colors)
-10. 💪 Opened PR [#2](https://github.com/Sagar-Sharma-7/T_colors/pull/2) in [Sagar-Sharma-7/T_colors](https://github.com/Sagar-Sharma-7/T_colors)
+1. 🎉 Merged PR [#2](https://github.com/Sagar-Sharma-7/Sudoku-Solver-UI/pull/2) in [Sagar-Sharma-7/Sudoku-Solver-UI](https://github.com/Sagar-Sharma-7/Sudoku-Solver-UI)
+2. 💪 Opened PR [#2](https://github.com/Sagar-Sharma-7/Sudoku-Solver-UI/pull/2) in [Sagar-Sharma-7/Sudoku-Solver-UI](https://github.com/Sagar-Sharma-7/Sudoku-Solver-UI)
+3. 🎉 Merged PR [#1](https://github.com/Sagar-Sharma-7/Sudoku-Solver-UI/pull/1) in [Sagar-Sharma-7/Sudoku-Solver-UI](https://github.com/Sagar-Sharma-7/Sudoku-Solver-UI)
+4. 💪 Opened PR [#1](https://github.com/Sagar-Sharma-7/Sudoku-Solver-UI/pull/1) in [Sagar-Sharma-7/Sudoku-Solver-UI](https://github.com/Sagar-Sharma-7/Sudoku-Solver-UI)
+5. 🎉 Merged PR [#3](https://github.com/Sagar-Sharma-7/Sudoku-Solver-CLI/pull/3) in [Sagar-Sharma-7/Sudoku-Solver-CLI](https://github.com/Sagar-Sharma-7/Sudoku-Solver-CLI)
+6. 💪 Opened PR [#3](https://github.com/Sagar-Sharma-7/Sudoku-Solver-CLI/pull/3) in [Sagar-Sharma-7/Sudoku-Solver-CLI](https://github.com/Sagar-Sharma-7/Sudoku-Solver-CLI)
+7. 🎉 Merged PR [#2](https://github.com/Sagar-Sharma-7/Sudoku-Solver-CLI/pull/2) in [Sagar-Sharma-7/Sudoku-Solver-CLI](https://github.com/Sagar-Sharma-7/Sudoku-Solver-CLI)
+8. 💪 Opened PR [#2](https://github.com/Sagar-Sharma-7/Sudoku-Solver-CLI/pull/2) in [Sagar-Sharma-7/Sudoku-Solver-CLI](https://github.com/Sagar-Sharma-7/Sudoku-Solver-CLI)
+9. 🎉 Merged PR [#1](https://github.com/Sagar-Sharma-7/Sudoku-Solver-CLI/pull/1) in [Sagar-Sharma-7/Sudoku-Solver-CLI](https://github.com/Sagar-Sharma-7/Sudoku-Solver-CLI)
+10. 💪 Opened PR [#1](https://github.com/Sagar-Sharma-7/Sudoku-Solver-CLI/pull/1) in [Sagar-Sharma-7/Sudoku-Solver-CLI](https://github.com/Sagar-Sharma-7/Sudoku-Solver-CLI)
 <!--END_SECTION:activity-->
 
 ___
