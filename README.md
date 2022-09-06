@@ -71,10 +71,12 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 August 2022 - To: 04 September 2022
+From: 29 August 2022 - To: 05 September 2022
 
-Python   1 hr 11 mins    ████████████████████████░   96.56 %
-HTML     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+HTML       20 mins         █████████▓░░░░░░░░░░░░░░░   39.24 %
+SCSS       15 mins         ███████▓░░░░░░░░░░░░░░░░░   30.25 %
+Python     14 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.00 %
+Markdown   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
 ```
 
 <!--END_SECTION:waka-->
