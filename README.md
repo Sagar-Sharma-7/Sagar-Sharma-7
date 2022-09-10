@@ -71,7 +71,7 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 August 2022 - To: 07 September 2022
+From: 01 September 2022 - To: 08 September 2022
 
 SCSS         1 hr 12 mins    ██████████████░░░░░░░░░░░   55.59 %
 HTML         22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
