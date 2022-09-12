@@ -71,13 +71,13 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 September 2022 - To: 09 September 2022
+From: 03 September 2022 - To: 10 September 2022
 
-SCSS         1 hr 12 mins    ██████████████░░░░░░░░░░░   55.59 %
-HTML         22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
-JavaScript   19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
-Python       14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
-Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+SCSS         1 hr 12 mins    ████████████▓░░░░░░░░░░░░   51.12 %
+JavaScript   29 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.94 %
+HTML         23 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
+Python       14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
