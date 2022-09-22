@@ -86,16 +86,16 @@ ____
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/Sagar-Sharma-7/Color-Palette/issues/4) in [Sagar-Sharma-7/Color-Palette](https://github.com/Sagar-Sharma-7/Color-Palette)
-2. 🗣 Commented on [#4](https://github.com/Sagar-Sharma-7/Color-Palette/issues/4) in [Sagar-Sharma-7/Color-Palette](https://github.com/Sagar-Sharma-7/Color-Palette)
-3. 🗣 Commented on [#6](https://github.com/Sagar-Sharma-7/Gradients-Palette/issues/6) in [Sagar-Sharma-7/Gradients-Palette](https://github.com/Sagar-Sharma-7/Gradients-Palette)
-4. ❗️ Closed issue [#6](https://github.com/Sagar-Sharma-7/Gradients-Palette/issues/6) in [Sagar-Sharma-7/Gradients-Palette](https://github.com/Sagar-Sharma-7/Gradients-Palette)
-5. 💪 Opened PR [#2](https://github.com/CodeWithMe100/file_handling_python/pull/2) in [CodeWithMe100/file_handling_python](https://github.com/CodeWithMe100/file_handling_python)
-6. 💪 Opened PR [#1](https://github.com/CodeWithMe100/file_handling_python/pull/1) in [CodeWithMe100/file_handling_python](https://github.com/CodeWithMe100/file_handling_python)
-7. 🎉 Merged PR [#2](https://github.com/Sagar-Sharma-7/Sudoku-Solver-UI/pull/2) in [Sagar-Sharma-7/Sudoku-Solver-UI](https://github.com/Sagar-Sharma-7/Sudoku-Solver-UI)
-8. 💪 Opened PR [#2](https://github.com/Sagar-Sharma-7/Sudoku-Solver-UI/pull/2) in [Sagar-Sharma-7/Sudoku-Solver-UI](https://github.com/Sagar-Sharma-7/Sudoku-Solver-UI)
-9. 🎉 Merged PR [#1](https://github.com/Sagar-Sharma-7/Sudoku-Solver-UI/pull/1) in [Sagar-Sharma-7/Sudoku-Solver-UI](https://github.com/Sagar-Sharma-7/Sudoku-Solver-UI)
-10. 💪 Opened PR [#1](https://github.com/Sagar-Sharma-7/Sudoku-Solver-UI/pull/1) in [Sagar-Sharma-7/Sudoku-Solver-UI](https://github.com/Sagar-Sharma-7/Sudoku-Solver-UI)
+1. 🎉 Merged PR [#5](https://github.com/Sagar-Sharma-7/Python-list-sorting-algorithms/pull/5) in [Sagar-Sharma-7/Python-list-sorting-algorithms](https://github.com/Sagar-Sharma-7/Python-list-sorting-algorithms)
+2. 💪 Opened PR [#5](https://github.com/Sagar-Sharma-7/Python-list-sorting-algorithms/pull/5) in [Sagar-Sharma-7/Python-list-sorting-algorithms](https://github.com/Sagar-Sharma-7/Python-list-sorting-algorithms)
+3. ❗️ Closed issue [#4](https://github.com/Sagar-Sharma-7/Color-Palette/issues/4) in [Sagar-Sharma-7/Color-Palette](https://github.com/Sagar-Sharma-7/Color-Palette)
+4. 🗣 Commented on [#4](https://github.com/Sagar-Sharma-7/Color-Palette/issues/4) in [Sagar-Sharma-7/Color-Palette](https://github.com/Sagar-Sharma-7/Color-Palette)
+5. 🗣 Commented on [#6](https://github.com/Sagar-Sharma-7/Gradients-Palette/issues/6) in [Sagar-Sharma-7/Gradients-Palette](https://github.com/Sagar-Sharma-7/Gradients-Palette)
+6. ❗️ Closed issue [#6](https://github.com/Sagar-Sharma-7/Gradients-Palette/issues/6) in [Sagar-Sharma-7/Gradients-Palette](https://github.com/Sagar-Sharma-7/Gradients-Palette)
+7. 💪 Opened PR [#2](https://github.com/CodeWithMe100/file_handling_python/pull/2) in [CodeWithMe100/file_handling_python](https://github.com/CodeWithMe100/file_handling_python)
+8. 💪 Opened PR [#1](https://github.com/CodeWithMe100/file_handling_python/pull/1) in [CodeWithMe100/file_handling_python](https://github.com/CodeWithMe100/file_handling_python)
+9. 🎉 Merged PR [#2](https://github.com/Sagar-Sharma-7/Sudoku-Solver-UI/pull/2) in [Sagar-Sharma-7/Sudoku-Solver-UI](https://github.com/Sagar-Sharma-7/Sudoku-Solver-UI)
+10. 💪 Opened PR [#2](https://github.com/Sagar-Sharma-7/Sudoku-Solver-UI/pull/2) in [Sagar-Sharma-7/Sudoku-Solver-UI](https://github.com/Sagar-Sharma-7/Sudoku-Solver-UI)
 <!--END_SECTION:activity-->
 
 ___
