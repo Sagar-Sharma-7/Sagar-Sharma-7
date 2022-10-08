@@ -71,12 +71,12 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 September 2022 - To: 06 October 2022
+From: 30 September 2022 - To: 07 October 2022
 
-SCSS         34 mins         █████████████████▒░░░░░░░   68.84 %
-HTML         14 mins         ███████▒░░░░░░░░░░░░░░░░░   28.82 %
-CSS          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+SCSS         33 mins         █████████████▒░░░░░░░░░░░   53.95 %
+HTML         14 mins         ██████░░░░░░░░░░░░░░░░░░░   23.40 %
+JavaScript   12 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.91 %
+CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 ```
 
 <!--END_SECTION:waka-->
