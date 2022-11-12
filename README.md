@@ -71,13 +71,13 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 November 2022 - To: 10 November 2022
+From: 04 November 2022 - To: 11 November 2022
 
-SCSS         1 hr 57 mins    ████████████▓░░░░░░░░░░░░   50.19 %
-Python       1 hr 11 mins    ███████▓░░░░░░░░░░░░░░░░░   30.70 %
-JavaScript   17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-HTML         15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
-Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+SCSS         1 hr 57 mins    ███████████████▓░░░░░░░░░   62.80 %
+Python       25 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
+JavaScript   23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
+HTML         16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
