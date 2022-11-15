@@ -71,7 +71,7 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 November 2022 - To: 14 November 2022
+Total Time: 37 mins
 
 SCSS         26 mins         ██████████████████░░░░░░░   72.21 %
 JavaScript   6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.55 %
