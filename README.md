@@ -71,11 +71,11 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 18 mins
+Total Time: 12 mins
 
-Python       10 mins         ██████████████▒░░░░░░░░░░   56.85 %
-JavaScript   6 mins          █████████░░░░░░░░░░░░░░░░   36.23 %
-HTML         1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+Python       10 mins         ██████████████████████░░░   87.72 %
+JavaScript   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+HTML         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
 ```
 
 <!--END_SECTION:waka-->
