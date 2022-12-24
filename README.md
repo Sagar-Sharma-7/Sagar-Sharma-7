@@ -80,9 +80,9 @@ ____
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Sagar-Sharma-7/Stack_Python/pull/1) in [Sagar-Sharma-7/Stack_Python](https://github.com/Sagar-Sharma-7/Stack_Python)
-2. 💪 Opened PR [#1](https://github.com/Sagar-Sharma-7/Stack_Python/pull/1) in [Sagar-Sharma-7/Stack_Python](https://github.com/Sagar-Sharma-7/Stack_Python)
-3. 🎉 Merged PR [#5](https://github.com/Sagar-Sharma-7/Python-list-sorting-algorithms/pull/5) in [Sagar-Sharma-7/Python-list-sorting-algorithms](https://github.com/Sagar-Sharma-7/Python-list-sorting-algorithms)
+1. 🎉 Merged PR [#2](https://github.com/Sagar-Sharma-7/weather_website/pull/2) in [Sagar-Sharma-7/weather_website](https://github.com/Sagar-Sharma-7/weather_website)
+2. 🎉 Merged PR [#1](https://github.com/Sagar-Sharma-7/Stack_Python/pull/1) in [Sagar-Sharma-7/Stack_Python](https://github.com/Sagar-Sharma-7/Stack_Python)
+3. 💪 Opened PR [#1](https://github.com/Sagar-Sharma-7/Stack_Python/pull/1) in [Sagar-Sharma-7/Stack_Python](https://github.com/Sagar-Sharma-7/Stack_Python)
 4. 💪 Opened PR [#5](https://github.com/Sagar-Sharma-7/Python-list-sorting-algorithms/pull/5) in [Sagar-Sharma-7/Python-list-sorting-algorithms](https://github.com/Sagar-Sharma-7/Python-list-sorting-algorithms)
 5. ❗️ Closed issue [#4](https://github.com/Sagar-Sharma-7/Color-Palette/issues/4) in [Sagar-Sharma-7/Color-Palette](https://github.com/Sagar-Sharma-7/Color-Palette)
 6. 🗣 Commented on [#4](https://github.com/Sagar-Sharma-7/Color-Palette/issues/4) in [Sagar-Sharma-7/Color-Palette](https://github.com/Sagar-Sharma-7/Color-Palette)
