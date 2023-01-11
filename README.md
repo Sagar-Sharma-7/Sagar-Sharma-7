@@ -71,7 +71,9 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Total Time: 6 mins
+
+HTML   6 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
