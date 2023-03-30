@@ -71,10 +71,9 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 1 hr 3 mins
+Total Time: 0 secs
 
-Python   1 hr 3 mins     █████████████████████████   99.91 %
-CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
