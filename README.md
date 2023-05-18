@@ -82,11 +82,11 @@ ____
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/Sagar-Sharma-7/ColorChalks/pull/9) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
-2. 🎉 Merged PR [#3](https://github.com/Sagar-Sharma-7/weather_website/pull/3) in [Sagar-Sharma-7/weather_website](https://github.com/Sagar-Sharma-7/weather_website)
-3. 🎉 Merged PR [#1](https://github.com/Sagar-Sharma-7/Password_manager_CLI/pull/1) in [Sagar-Sharma-7/Password_manager_CLI](https://github.com/Sagar-Sharma-7/Password_manager_CLI)
-4. 💪 Opened PR [#1](https://github.com/Sagar-Sharma-7/Password_manager_CLI/pull/1) in [Sagar-Sharma-7/Password_manager_CLI](https://github.com/Sagar-Sharma-7/Password_manager_CLI)
-5. ❗️ Closed issue [#4](https://github.com/Sagar-Sharma-7/Color-Palette/issues/4) in [Sagar-Sharma-7/Color-Palette](https://github.com/Sagar-Sharma-7/Color-Palette)
+1. 🎉 Merged PR [#9](https://github.com/Sagar-Sharma-7/ColorChalks/pull/9) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
+2. 💪 Opened PR [#9](https://github.com/Sagar-Sharma-7/ColorChalks/pull/9) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
+3. 🎉 Merged PR [#3](https://github.com/Sagar-Sharma-7/weather_website/pull/3) in [Sagar-Sharma-7/weather_website](https://github.com/Sagar-Sharma-7/weather_website)
+4. 🎉 Merged PR [#1](https://github.com/Sagar-Sharma-7/Password_manager_CLI/pull/1) in [Sagar-Sharma-7/Password_manager_CLI](https://github.com/Sagar-Sharma-7/Password_manager_CLI)
+5. 💪 Opened PR [#1](https://github.com/Sagar-Sharma-7/Password_manager_CLI/pull/1) in [Sagar-Sharma-7/Password_manager_CLI](https://github.com/Sagar-Sharma-7/Password_manager_CLI)
 6. 🗣 Commented on [#4](https://github.com/Sagar-Sharma-7/Color-Palette/issues/4) in [Sagar-Sharma-7/Color-Palette](https://github.com/Sagar-Sharma-7/Color-Palette)
 7. 🗣 Commented on [#6](https://github.com/Sagar-Sharma-7/Gradients-Palette/issues/6) in [Sagar-Sharma-7/Gradients-Palette](https://github.com/Sagar-Sharma-7/Gradients-Palette)
 8. ❗️ Closed issue [#6](https://github.com/Sagar-Sharma-7/Gradients-Palette/issues/6) in [Sagar-Sharma-7/Gradients-Palette](https://github.com/Sagar-Sharma-7/Gradients-Palette)
