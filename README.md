@@ -73,7 +73,9 @@ ___
 ```text
 Total Time: 0 secs
 
-No activity tracked
+HTML    0 secs          ██████████████▓░░░░░░░░░░   58.40 %
+Other   0 secs          █████▓░░░░░░░░░░░░░░░░░░░   22.39 %
+CSS     0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   19.21 %
 ```
 
 <!--END_SECTION:waka-->
