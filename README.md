@@ -70,7 +70,7 @@ ___
 ### Coding Stats
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Total Time: 0 secs
 
 HTML    0 secs          ██████████████▓░░░░░░░░░░   58.40 %
