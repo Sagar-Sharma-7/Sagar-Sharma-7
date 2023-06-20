@@ -85,12 +85,12 @@ ____
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🔒 Reopened issue [#11](https://github.com/Sagar-Sharma-7/ColorChalks/issues/11) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
-2. 🔒 Closed issue [#11](https://github.com/Sagar-Sharma-7/ColorChalks/issues/11) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
-3. 🎉 Merged PR [#9](https://github.com/Sagar-Sharma-7/ColorChalks/pull/9) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
-4. 💪 Opened PR [#9](https://github.com/Sagar-Sharma-7/ColorChalks/pull/9) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
-5. 🚀 Published release [v1.1.1](https://github.com/v1.1.1) in [Sagar-Sharma-7/Color-Palette](https://github.com/Sagar-Sharma-7/Color-Palette)
-6. 🎉 Merged PR [#3](https://github.com/Sagar-Sharma-7/weather_website/pull/3) in [Sagar-Sharma-7/weather_website](https://github.com/Sagar-Sharma-7/weather_website)
+1. 🎉 Merged PR [#2](https://github.com/Sagar-Sharma-7/Python-Stars-Pattern/pull/2) in [Sagar-Sharma-7/Python-Stars-Pattern](https://github.com/Sagar-Sharma-7/Python-Stars-Pattern)
+2. 🎉 Merged PR [#3](https://github.com/Sagar-Sharma-7/Python-Stars-Pattern/pull/3) in [Sagar-Sharma-7/Python-Stars-Pattern](https://github.com/Sagar-Sharma-7/Python-Stars-Pattern)
+3. 🔒 Reopened issue [#11](https://github.com/Sagar-Sharma-7/ColorChalks/issues/11) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
+4. 🔒 Closed issue [#11](https://github.com/Sagar-Sharma-7/ColorChalks/issues/11) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
+5. 🎉 Merged PR [#9](https://github.com/Sagar-Sharma-7/ColorChalks/pull/9) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
+6. 💪 Opened PR [#9](https://github.com/Sagar-Sharma-7/ColorChalks/pull/9) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
 7. 🎉 Merged PR [#1](https://github.com/Sagar-Sharma-7/Password_manager_CLI/pull/1) in [Sagar-Sharma-7/Password_manager_CLI](https://github.com/Sagar-Sharma-7/Password_manager_CLI)
 8. 💪 Opened PR [#1](https://github.com/Sagar-Sharma-7/Password_manager_CLI/pull/1) in [Sagar-Sharma-7/Password_manager_CLI](https://github.com/Sagar-Sharma-7/Password_manager_CLI)
 9. 💪 Opened PR [#2](https://github.com/CodeWithMe100/file_handling_python/pull/2) in [CodeWithMe100/file_handling_python](https://github.com/CodeWithMe100/file_handling_python)
