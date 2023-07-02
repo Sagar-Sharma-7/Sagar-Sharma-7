@@ -71,12 +71,9 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 35 mins
+Total Time: 1 min
 
-SCSS         1 hr 59 mins    ██████████████░░░░░░░░░░░   55.66 %
-HTML         51 mins         ██████░░░░░░░░░░░░░░░░░░░   23.79 %
-JavaScript   44 mins         █████░░░░░░░░░░░░░░░░░░░░   20.52 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+JavaScript   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
