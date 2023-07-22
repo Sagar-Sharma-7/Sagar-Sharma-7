@@ -71,10 +71,10 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 14 mins
+Total Time: 2 hrs 51 mins
 
-SCSS   3 hrs 31 mins   ████████████████▓░░░░░░░░   67.11 %
-HTML   1 hr 43 mins    ████████▒░░░░░░░░░░░░░░░░   32.89 %
+SCSS   2 hrs 22 mins   ████████████████████▓░░░░   83.15 %
+HTML   28 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.85 %
 ```
 
 <!--END_SECTION:waka-->
