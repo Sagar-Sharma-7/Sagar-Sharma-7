@@ -71,10 +71,9 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 19 mins
+Total Time: 0 secs
 
-SCSS   1 hr 2 mins     ███████████████████▓░░░░░   78.31 %
-HTML   17 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.69 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
