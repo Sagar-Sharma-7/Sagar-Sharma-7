@@ -18,7 +18,7 @@ const Sagar = {
     },
     editors: [VS Code, Vim, PyCharm, Nano],
     learning: [Kali Linux],
-    contact: 6969sagarsharma@gmail.com
+    contact: 0503sagar@gmail.com
 };
 
 if(succeed == false){
