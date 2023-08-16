@@ -17,7 +17,7 @@ const Sagar = {
         libraries: [Bootstrap, JQuery]
     },
     editors: [VS Code, Vim, PyCharm, Nano],
-    learning: [Kali Linux],
+    learning: [Kali Linux, c++],
     contact: 0503sagar@gmail.com
 };
 
