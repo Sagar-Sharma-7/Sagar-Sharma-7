@@ -86,16 +86,16 @@ ____
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Sagar-Sharma-7/Piano/pull/2) in [Sagar-Sharma-7/Piano](https://github.com/Sagar-Sharma-7/Piano)
-2. 💪 Opened PR [#2](https://github.com/Sagar-Sharma-7/Piano/pull/2) in [Sagar-Sharma-7/Piano](https://github.com/Sagar-Sharma-7/Piano)
-3. 🎉 Merged PR [#1](https://github.com/Sagar-Sharma-7/Piano/pull/1) in [Sagar-Sharma-7/Piano](https://github.com/Sagar-Sharma-7/Piano)
-4. 💪 Opened PR [#1](https://github.com/Sagar-Sharma-7/Piano/pull/1) in [Sagar-Sharma-7/Piano](https://github.com/Sagar-Sharma-7/Piano)
-5. 🎉 Merged PR [#2](https://github.com/Sagar-Sharma-7/Python-Stars-Pattern/pull/2) in [Sagar-Sharma-7/Python-Stars-Pattern](https://github.com/Sagar-Sharma-7/Python-Stars-Pattern)
-6. 🎉 Merged PR [#3](https://github.com/Sagar-Sharma-7/Python-Stars-Pattern/pull/3) in [Sagar-Sharma-7/Python-Stars-Pattern](https://github.com/Sagar-Sharma-7/Python-Stars-Pattern)
-7. 🔒 Reopened issue [#11](https://github.com/Sagar-Sharma-7/ColorChalks/issues/11) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
-8. 🔒 Closed issue [#11](https://github.com/Sagar-Sharma-7/ColorChalks/issues/11) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
-9. 🎉 Merged PR [#9](https://github.com/Sagar-Sharma-7/ColorChalks/pull/9) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
-10. 💪 Opened PR [#9](https://github.com/Sagar-Sharma-7/ColorChalks/pull/9) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
+1. 🎉 Merged PR [#1](https://github.com/Sagar-Sharma-7/Cpp-patterns/pull/1) in [Sagar-Sharma-7/Cpp-patterns](https://github.com/Sagar-Sharma-7/Cpp-patterns)
+2. 💪 Opened PR [#1](https://github.com/Sagar-Sharma-7/Cpp-patterns/pull/1) in [Sagar-Sharma-7/Cpp-patterns](https://github.com/Sagar-Sharma-7/Cpp-patterns)
+3. 🎉 Merged PR [#2](https://github.com/Sagar-Sharma-7/Piano/pull/2) in [Sagar-Sharma-7/Piano](https://github.com/Sagar-Sharma-7/Piano)
+4. 💪 Opened PR [#2](https://github.com/Sagar-Sharma-7/Piano/pull/2) in [Sagar-Sharma-7/Piano](https://github.com/Sagar-Sharma-7/Piano)
+5. 🎉 Merged PR [#1](https://github.com/Sagar-Sharma-7/Piano/pull/1) in [Sagar-Sharma-7/Piano](https://github.com/Sagar-Sharma-7/Piano)
+6. 💪 Opened PR [#1](https://github.com/Sagar-Sharma-7/Piano/pull/1) in [Sagar-Sharma-7/Piano](https://github.com/Sagar-Sharma-7/Piano)
+7. 🎉 Merged PR [#2](https://github.com/Sagar-Sharma-7/Python-Stars-Pattern/pull/2) in [Sagar-Sharma-7/Python-Stars-Pattern](https://github.com/Sagar-Sharma-7/Python-Stars-Pattern)
+8. 🎉 Merged PR [#3](https://github.com/Sagar-Sharma-7/Python-Stars-Pattern/pull/3) in [Sagar-Sharma-7/Python-Stars-Pattern](https://github.com/Sagar-Sharma-7/Python-Stars-Pattern)
+9. 🔒 Reopened issue [#11](https://github.com/Sagar-Sharma-7/ColorChalks/issues/11) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
+10. 🔒 Closed issue [#11](https://github.com/Sagar-Sharma-7/ColorChalks/issues/11) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
 <!--END_SECTION:activity-->
 
 ___
