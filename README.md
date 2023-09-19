@@ -86,13 +86,13 @@ ____
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Sagar-Sharma-7/Cpp-patterns/pull/1) in [Sagar-Sharma-7/Cpp-patterns](https://github.com/Sagar-Sharma-7/Cpp-patterns)
-2. 💪 Opened PR [#1](https://github.com/Sagar-Sharma-7/Cpp-patterns/pull/1) in [Sagar-Sharma-7/Cpp-patterns](https://github.com/Sagar-Sharma-7/Cpp-patterns)
-3. 🎉 Merged PR [#2](https://github.com/Sagar-Sharma-7/Piano/pull/2) in [Sagar-Sharma-7/Piano](https://github.com/Sagar-Sharma-7/Piano)
-4. 💪 Opened PR [#2](https://github.com/Sagar-Sharma-7/Piano/pull/2) in [Sagar-Sharma-7/Piano](https://github.com/Sagar-Sharma-7/Piano)
-5. 🎉 Merged PR [#1](https://github.com/Sagar-Sharma-7/Piano/pull/1) in [Sagar-Sharma-7/Piano](https://github.com/Sagar-Sharma-7/Piano)
-6. 💪 Opened PR [#1](https://github.com/Sagar-Sharma-7/Piano/pull/1) in [Sagar-Sharma-7/Piano](https://github.com/Sagar-Sharma-7/Piano)
-7. 🎉 Merged PR [#2](https://github.com/Sagar-Sharma-7/Python-Stars-Pattern/pull/2) in [Sagar-Sharma-7/Python-Stars-Pattern](https://github.com/Sagar-Sharma-7/Python-Stars-Pattern)
+1. 🚀 Published release [First Release](https://github.com/Sagar-Sharma-7/Replica1-Spotify/releases/tag/v1.0.0) in [Sagar-Sharma-7/Replica1-Spotify](https://github.com/Sagar-Sharma-7/Replica1-Spotify)
+2. 🎉 Merged PR [#1](https://github.com/Sagar-Sharma-7/Cpp-patterns/pull/1) in [Sagar-Sharma-7/Cpp-patterns](https://github.com/Sagar-Sharma-7/Cpp-patterns)
+3. 💪 Opened PR [#1](https://github.com/Sagar-Sharma-7/Cpp-patterns/pull/1) in [Sagar-Sharma-7/Cpp-patterns](https://github.com/Sagar-Sharma-7/Cpp-patterns)
+4. 🎉 Merged PR [#2](https://github.com/Sagar-Sharma-7/Piano/pull/2) in [Sagar-Sharma-7/Piano](https://github.com/Sagar-Sharma-7/Piano)
+5. 💪 Opened PR [#2](https://github.com/Sagar-Sharma-7/Piano/pull/2) in [Sagar-Sharma-7/Piano](https://github.com/Sagar-Sharma-7/Piano)
+6. 🎉 Merged PR [#1](https://github.com/Sagar-Sharma-7/Piano/pull/1) in [Sagar-Sharma-7/Piano](https://github.com/Sagar-Sharma-7/Piano)
+7. 💪 Opened PR [#1](https://github.com/Sagar-Sharma-7/Piano/pull/1) in [Sagar-Sharma-7/Piano](https://github.com/Sagar-Sharma-7/Piano)
 8. 🎉 Merged PR [#3](https://github.com/Sagar-Sharma-7/Python-Stars-Pattern/pull/3) in [Sagar-Sharma-7/Python-Stars-Pattern](https://github.com/Sagar-Sharma-7/Python-Stars-Pattern)
 9. 🔒 Reopened issue [#11](https://github.com/Sagar-Sharma-7/ColorChalks/issues/11) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
 10. 🔒 Closed issue [#11](https://github.com/Sagar-Sharma-7/ColorChalks/issues/11) in [Sagar-Sharma-7/ColorChalks](https://github.com/Sagar-Sharma-7/ColorChalks)
