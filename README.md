@@ -71,10 +71,11 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 28 mins
+Total Time: 1 hr 4 mins
 
-C++     28 mins         ████████████████████████▓   99.17 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+JavaScript   35 mins         ██████████████░░░░░░░░░░░   55.79 %
+C++          28 mins         ███████████░░░░░░░░░░░░░░   43.85 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
