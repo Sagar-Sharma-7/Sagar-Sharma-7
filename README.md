@@ -83,8 +83,8 @@ ____
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/09sunshine/ecell-webdev/pull/1) in [09sunshine/ecell-webdev](https://github.com/09sunshine/ecell-webdev)
-2. 🚀 Published release [First Release](https://github.com/Sagar-Sharma-7/Replica2-OSS/releases/tag/v1.0.0) in [Sagar-Sharma-7/Replica2-OSS](https://github.com/Sagar-Sharma-7/Replica2-OSS)
+1. 🎉 Merged PR [#25](https://github.com/aitoss/Innerve8/pull/25) in [aitoss/Innerve8](https://github.com/aitoss/Innerve8)
+2. 💪 Opened PR [#1](https://github.com/09sunshine/ecell-webdev/pull/1) in [09sunshine/ecell-webdev](https://github.com/09sunshine/ecell-webdev)
 3. 🎉 Merged PR [#2](https://github.com/Sagar-Sharma-7/Replica2-OSS/pull/2) in [Sagar-Sharma-7/Replica2-OSS](https://github.com/Sagar-Sharma-7/Replica2-OSS)
 4. 🎉 Merged PR [#1](https://github.com/Sagar-Sharma-7/Replica2-OSS/pull/1) in [Sagar-Sharma-7/Replica2-OSS](https://github.com/Sagar-Sharma-7/Replica2-OSS)
 5. 🚀 Published release [First Release](https://github.com/Sagar-Sharma-7/Replica1-Spotify/releases/tag/v1.0.0) in [Sagar-Sharma-7/Replica1-Spotify](https://github.com/Sagar-Sharma-7/Replica1-Spotify)
