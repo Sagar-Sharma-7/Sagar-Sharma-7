@@ -71,9 +71,13 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 24 mins
 
-No activity tracked
+Python        13 mins         ██████████████░░░░░░░░░░░   56.55 %
+JavaScript    10 mins         ██████████▒░░░░░░░░░░░░░░   41.78 %
+Image (svg)   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+HTML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+CSS           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
