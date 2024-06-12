@@ -71,10 +71,11 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 mins
+Total Time: 41 mins
 
-JavaScript   5 mins          ████████████████████████▒   97.62 %
-JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+JavaScript   40 mins         ████████████████████████▒   97.27 %
+CSS          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
