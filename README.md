@@ -71,10 +71,9 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 48 mins
+Total Time: 38 mins
 
-Python   38 mins         ███████████████████▓░░░░░   78.00 %
-C++      10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.00 %
+Python   38 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
