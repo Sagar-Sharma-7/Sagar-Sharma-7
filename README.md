@@ -12,8 +12,9 @@ const Sagar = {
     pronouns: "he" | "his",
     status: Student,
     technologies: {
-        frontEnd: [HTML, CSS, SASS, Javascript],
-        backEnd: [Node.js, Express.js, Mongoose.js, MongoDB, Python],
+        frontEnd: [HTML, CSS, SASS, Javascript, React],
+        backEnd: [Node.js, Express.js, Mongoose.js, Python],
+        dataBase: [MongoDB, SQL]
         libraries: [Bootstrap, JQuery]
     },
     editors: [VS Code, Vim, PyCharm, Nano],
