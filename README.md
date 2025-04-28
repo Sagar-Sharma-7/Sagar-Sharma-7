@@ -72,11 +72,11 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 57 mins
+Total Time: 2 hrs 53 mins
 
-C++        1 hr 27 mins    ████████████▒░░░░░░░░░░░░   49.41 %
-Assembly   1 hr            ████████▓░░░░░░░░░░░░░░░░   34.18 %
-Java       29 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
+C++        1 hr 23 mins    ████████████░░░░░░░░░░░░░   48.11 %
+Assembly   1 hr            ████████▓░░░░░░░░░░░░░░░░   35.01 %
+Java       29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.89 %
 ```
 
 <!--END_SECTION:waka-->
