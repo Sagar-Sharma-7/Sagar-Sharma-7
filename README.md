@@ -72,13 +72,11 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 14 mins
+Total Time: 34 mins
 
-Assembly      1 hr            ███████████▒░░░░░░░░░░░░░   45.04 %
-Java          29 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.73 %
-Prolog        17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
-Common Lisp   16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
-C++           10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+Prolog        17 mins         █████████████░░░░░░░░░░░░   51.56 %
+Common Lisp   16 mins         ████████████░░░░░░░░░░░░░   48.27 %
+Perl          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
