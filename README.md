@@ -72,11 +72,13 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 34 mins
+Total Time: 1 hr 16 mins
 
-Prolog        17 mins         █████████████░░░░░░░░░░░░   51.56 %
-Common Lisp   16 mins         ████████████░░░░░░░░░░░░░   48.27 %
-Perl          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+C++           42 mins         ██████████████░░░░░░░░░░░   55.69 %
+Prolog        17 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.78 %
+Common Lisp   16 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.33 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Perl          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
