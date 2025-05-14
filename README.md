@@ -72,9 +72,9 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 37 mins
+Total Time: 1 hr 36 mins
 
-C++   7 hrs 37 mins   █████████████████████████   100.00 %
+C++   1 hr 36 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
