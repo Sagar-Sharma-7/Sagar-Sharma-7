@@ -72,10 +72,9 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 18 mins
+Total Time: 0 secs
 
-Python   15 mins         █████████████████████▓░░░   86.71 %
-Java     2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
