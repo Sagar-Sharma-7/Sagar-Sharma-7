@@ -72,9 +72,10 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 11 mins
 
-No activity tracked
+TeX      11 mins         ████████████████████████▒   97.91 %
+BibTeX   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 ```
 
 <!--END_SECTION:waka-->
