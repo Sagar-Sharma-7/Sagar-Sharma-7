@@ -72,10 +72,11 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 11 mins
+Total Time: 22 mins
 
-TeX      11 mins         ████████████████████████▒   97.91 %
-BibTeX   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+TeX      22 mins         █████████████████████▒░░░   84.96 %
+Other    3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
+BibTeX   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
