@@ -87,9 +87,9 @@ ____
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [First Release v1.0.1-alpha](https://github.com/Sagar-Sharma-7/Task-Manager/releases/tag/v1.0.1-alpha) in [Sagar-Sharma-7/Task-Manager](https://github.com/Sagar-Sharma-7/Task-Manager)
-2. 💪 Opened PR [#1](https://github.com/09sunshine/ecell-webdev/pull/1) in [09sunshine/ecell-webdev](https://github.com/09sunshine/ecell-webdev)
-3. 🎉 Merged PR [#2](https://github.com/Sagar-Sharma-7/Replica2-OSS/pull/2) in [Sagar-Sharma-7/Replica2-OSS](https://github.com/Sagar-Sharma-7/Replica2-OSS)
+1. 🎉 Merged PR [#2](https://github.com/Sagar-Sharma-7/LP2-IS/pull/2) in [Sagar-Sharma-7/LP2-IS](https://github.com/Sagar-Sharma-7/LP2-IS)
+2. 💪 Opened PR [#2](https://github.com/Sagar-Sharma-7/LP2-IS/pull/2) in [Sagar-Sharma-7/LP2-IS](https://github.com/Sagar-Sharma-7/LP2-IS)
+3. 💪 Opened PR [#1](https://github.com/Sagar-Sharma-7/LP2-IS/pull/1) in [Sagar-Sharma-7/LP2-IS](https://github.com/Sagar-Sharma-7/LP2-IS)
 4. 🎉 Merged PR [#1](https://github.com/Sagar-Sharma-7/Replica2-OSS/pull/1) in [Sagar-Sharma-7/Replica2-OSS](https://github.com/Sagar-Sharma-7/Replica2-OSS)
 5. 🚀 Published release [First Release](https://github.com/Sagar-Sharma-7/Replica1-Spotify/releases/tag/v1.0.0) in [Sagar-Sharma-7/Replica1-Spotify](https://github.com/Sagar-Sharma-7/Replica1-Spotify)
 6. 💪 Opened PR [#1](https://github.com/Sagar-Sharma-7/Cpp-patterns/pull/1) in [Sagar-Sharma-7/Cpp-patterns](https://github.com/Sagar-Sharma-7/Cpp-patterns)
