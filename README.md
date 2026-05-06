@@ -72,12 +72,10 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 17 mins
+Total Time: 4 mins
 
-Python     9 mins                █████████████▒░░░░░░░░░░░   53.15 %
-Markdown   4 mins                ██████▒░░░░░░░░░░░░░░░░░░   25.87 %
-C++        3 mins                █████░░░░░░░░░░░░░░░░░░░░   19.82 %
-TeX        0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Markdown   4 mins                ████████████████████████░   95.71 %
+TeX        0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
 ```
 
 <!--END_SECTION:waka-->
