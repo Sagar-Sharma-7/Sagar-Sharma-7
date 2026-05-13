@@ -72,10 +72,9 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 mins
+Total Time: 0 secs
 
-Markdown   4 mins                ████████████████████████░   95.71 %
-TeX        0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
