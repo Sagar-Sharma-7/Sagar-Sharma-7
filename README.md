@@ -72,9 +72,11 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 1 hr 12 mins
 
-No activity tracked
+C++        40 mins               ██████████████░░░░░░░░░░░   55.35 %
+Python     18 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.89 %
+Markdown   13 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.75 %
 ```
 
 <!--END_SECTION:waka-->
