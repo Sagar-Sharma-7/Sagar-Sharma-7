@@ -72,11 +72,13 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 38 mins
+Total Time: 4 hrs 36 mins
 
-C++        1 hr 6 mins           ████████████████▓░░░░░░░░   67.04 %
-Python     18 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.11 %
-Markdown   13 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
+Kotlin            1 hr 14 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.06 %
+C++               1 hr 9 mins           ██████░░░░░░░░░░░░░░░░░░░   24.12 %
+Markdown          46 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
+Python            41 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
+Git Config        23 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
 ```
 
 <!--END_SECTION:waka-->
