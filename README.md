@@ -72,13 +72,13 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 hrs 36 mins
+Total Time: 8 hrs 8 mins
 
-Kotlin            5 hrs 46 mins         █████████▒░░░░░░░░░░░░░░░   37.43 %
-Other             2 hrs 48 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.19 %
-Markdown          2 hrs 26 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
-TeX               1 hr 40 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
-Python            1 hr 36 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+Kotlin       2 hrs 48 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.90 %
+Other        2 hrs 41 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.90 %
+Markdown     1 hr 46 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.37 %
+TeX          1 hr 40 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.39 %
+Python       47 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
 ```
 
 <!--END_SECTION:waka-->
